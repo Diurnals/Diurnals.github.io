@@ -1,4 +1,15 @@
-[toc]
+- [Two research trends](#two-research-trends)
+  - [Intensive research](#intensive-research)
+  - [Extensive research](#extensive-research)
+- [Symmetry](#symmetry)
+  - [Example](#example)
+  - [Three infuerences](#three-infuerences)
+- [Next Stage](#next-stage)
+  - [regular system but contains information](#regular-system-but-contains-information)
+  - [temporal regularity in living objects](#temporal-regularity-in-living-objects)
+  - [hierarchy or specialization of function](#hierarchy-or-specialization-of-function)
+- [Comment](#comment)
+
 
 # Two research trends
 
