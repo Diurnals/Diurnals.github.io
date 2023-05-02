@@ -29,11 +29,28 @@ This project compares the probability of knots formation in various simulations(
 
 ### topology in fluid physics
 
-## More is different
+some useful articles:
+
+- https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.274501
+- https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.150404
+
+## Common Sense in physics
+
+### More is different
+
+[note_P.W.Anderson](/common_sense_phy/note1.md)
 
 # Life
 
 ## Music
 
+[泛渡边品味合集](https://music.apple.com/cn/playlist/%E6%B3%9B%E6%B8%A1%E8%BE%B9%E5%93%81%E5%91%B3%E5%90%88%E9%9B%86/pl.u-9N9L2GyIxmJMP73)
+
+[funeral list](https://music.apple.com/cn/playlist/funeral%E6%AD%8C%E5%8D%95/pl.u-DdANrpPsa124vlk)
+
 ## Movie & Animation
+
+My top 5 movies：这个杀手不太冷 / 乱世佳人 / 美丽心灵 / 东京物语 / 卡萨布兰卡
+
+My top 5 animations：星际牛仔 / 混沌武士 / EVA / 攻壳机动队（1995）/ 千年女优
 
