@@ -8,11 +8,13 @@ Welcome!
       - [Project #2: knots in peptide](#project-2-knots-in-peptide)
     - [topology in glass](#topology-in-glass)
     - [topology in fluid physics](#topology-in-fluid-physics)
+    - [topology杂谈](#topology杂谈)
   - [Common Sense in physics](#common-sense-in-physics)
     - [More is different](#more-is-different)
 - [Life](#life)
   - [Music](#music)
   - [Movie \& Animation](#movie--animation)
+
 
 
 # Work
@@ -47,6 +49,10 @@ some useful articles:
 
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.274501
 - https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.150404
+
+### topology杂谈
+
+[一些碎碎念](./topology_mix/tp_index.md)
 
 ## Common Sense in physics
 
